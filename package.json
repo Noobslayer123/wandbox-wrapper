@@ -1,0 +1,24 @@
+{
+  "name": "wandbox-wrapper",
+  "version": "0.0.1",
+  "description": "Wandbox wrapper to compile spaghetti codes",
+  "main": "./index.js",
+  "scripts": {
+    "start": "./index.js",
+  },
+  "keywords": [
+    "wandbox",
+    "api",
+    "wrapper",
+    "compiler",
+    "web"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Noobslayer123/wandbox-wrapper.git"
+  },
+  "author": "Noobslayer123",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
