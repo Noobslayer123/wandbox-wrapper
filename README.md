@@ -6,7 +6,7 @@ npm install
 npm i wandbox-wrapper
 ```
 example
-```
+```js
 const wrapper = require('wandbox-wrapper')
 
 const loadstr = new wrapper.eval(
